@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Project1
-Backend project 1 
+
 # Project1
 Backend project 1 
 # Lithium
